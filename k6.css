@@ -1,0 +1,8 @@
+h1{
+	color: red;
+	text-align: right;
+}
+.boxmodel{border: 5px solid red;
+display: inline-block;
+padding: 5px 19px 5px 19px;
+margin: 0px 19px}

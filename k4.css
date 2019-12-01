@@ -1,0 +1,15 @@
+/*selector{
+	property: value;
+}*/
+*{text-align: right;}
+body{
+	background-image: url(p1.jpg);
+	background-size: cover;
+}
+h1+ p{color: red;
+text-align: center;
+border: 5px solid rgb(255,176,170);
+coursor:pointer;}
+.webtext:first-child{border: 5px dashed green;}
+.active{color: blue}
+#div1{background: rgba(0,0,225,0.3);}
